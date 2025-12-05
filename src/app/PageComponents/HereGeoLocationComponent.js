@@ -62,10 +62,14 @@ export default function HereGeoLocationComponent({  section, id, form, setform, 
   const verifyAddressByHere = async (addressText, addressObj) => {
     try {
       // Fetch the address details including ZIP+4 from USPS API
-      const street = `${addressObj.street_line}${addressObj.secondary ? ' ' + addressObj.secondary : ''}`;
-      const response = await fetch(`/api/smarty-verify?street=${encodeURIComponent(street)}&city=${encodeURIComponent(addressObj.city)}&state=${encodeURIComponent(addressObj.state)}&zipcode=${encodeURIComponent(addressObj.zipcode)}`);
-
-      let zipCode = addressObj.zipcode; // Default to 5-digit ZIP
+      try {
+          const street = `${addressObj.street_line}${addressObj.secondary ? ' ' + addressObj.secondary : ''}`;
+          const response = await fetch(`/api/smarty-verify?street=${encodeURIComponent(street)}&city=${encodeURIComponent(addressObj.city)}&state=${encodeURIComponent(addressObj.state)}&zipcode=${encodeURIComponent(addressObj.zipcode)}`);
+      
+          let zipCode = addressObj.zipcode; // Default to 5-digit ZIP
+      } catch (error) {
+          console.error(error);
+      }
 
       if (!response.ok) {
         console.error('Error fetching data:', response.statusText);
