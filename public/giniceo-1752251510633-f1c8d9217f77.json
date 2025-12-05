@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gym-website-6a35b",
+  "private_key_id": "84790a6898a124c19ec3d55ca5e6f99d08656aa1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC201fg9qfqyQrT\ngJ9yV3n2Vq06CvjoAeDOiE/imYp+T2QIxfdfKRzIHny0Ucu1gbsjcubB5UBGcuck\nbM1KE0eE/mnXvb1M900xB1hpyrOjOCXqTUKjwwVc1vTp8iFwVScEii2b4Je+7cBE\nK/oD+on7s0zVxDkby/scr1QVjH82pnk3d0BwgSCItT66nkyYkVJ0vQV45Sj1saeN\nLER4rcmv6M3dUuLrFXnGdRAMGSXqlKcRgQTG3u/1RJRnsEjp9ZKaZ9R8IY2lldmi\nV2DcHsm2qtxnFKw24B2Y3jqzNsilo1YgSPeUGBQQz3KimTEQVLd4sRN+ZO9iKh/s\nfiy7KHbLAgMBAAECggEAIffddYpOg5Rr4wUcWuG+4tKS59xfB7hFnQn9kbQGY9Z7\nVxf1EKSyWMo1UEl8SFJ8wybXkgH2scAqiv1+HPu9B4w/fRqfP9wY5vme5zUGsFY/\n0SserQ+QgQHdSlQ2+0iO8cx8keAmQY6p8OCc2L1lgrL7HSKSm8QH+Xnn7QMIJc5z\nBeO1FnRMtZXTVpsRz2XmwNkOYwv2vG5WCuMyfArJqxkm3nlap5UliYnvArtREjhT\nZgYubXlCqamc2h+A9DWCa/sjp+HZpZzEot0mIzIcTj3Ie6udWFfSGg/2UXDdG/hz\njg2Ozxj+RU2lMyxvdEFyO6fv+sdAlkyt1dvyQmuCjQKBgQDYbFwzXZoAauWcUsIQ\nUMaSKGYQTflK34FYP0zh5uN3Kd6wnhs/q07355OpClKGEq6R8TewkrcKhFZPaRnm\n61SxB4rVVp2m/B6LJNLALPlhYx77euAEuvS8493k9ivb9ypvq8W0YMSGRP4+tasX\n+QvfkdYoK93ZbOK5GwGFmdmhPwKBgQDYQiOpMggJBh29lK+E2zgVdivPsKX3id9Q\nom/gObxTjmEc2EdUWNRu6dsNUzzGAwgo/I3maaBvYcQ99PuB0hbzI7fSu5BrlnDm\nSBRObj1P2M5J/dp145tZxYOvfgz2e3S8pgsMsTZdXGQmlurpATt7l+KRs91JlOt7\nPg9bRyf7dQKBgChu9jrSffceAY/XFlKeBLtBuO/K4YxPfYbTLLX3wP9+XxB4OXcH\ntlUyeq/WMdzCmMLDYjgm8POSDd4AMMqnpMb+Nb3t1L5h1AMC+izVOjIrppotNrUr\niJXRrJ8eLsuFvfPnD6THf2/ma+mjXze3W7SFNpGCwIvif+k9VmdzeulZAoGAQST7\nVRaLMRy0jM1jaiQXau+kFvZhqIXRzZqBFQyPXKRBQM0t/4yawaaUpBj077kuFhqu\nLECZYbQTx44qzVqaKzgRQdvaj25MKDKCW3X95jWrPsLHskeUHqDPIGhaQ03BRqrG\nHVasx8bzLGS98t66KmsAh1+lQ2sm3IM/YQG4W5kCgYAuinOrJdXLCmbgW/2L55mz\nalRQ1gVOgs4DUSofcsOpcq4xLLzNQ6v9cOk9gDiltDAClREuDorC9Mm8apq6UMhJ\n06rtjO5Az/HVhtzPyKAbsGa71hsw0tj89KOCwXDH1Uf6xK1chA02nY/iUWNmRbi6\nQvCNUGt64laN0UhnGxbvqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ginicoe@gym-website-6a35b.iam.gserviceaccount.com",
+  "client_id": "102319182158438942622",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ginicoe%40gym-website-6a35b.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

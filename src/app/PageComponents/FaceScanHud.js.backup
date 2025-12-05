@@ -1,0 +1,48 @@
+import { Eye } from 'lucide-react';
+import React from 'react';
+
+export default function FaceScanHud({setCurrentStep,setShowTutorial}) {
+
+  return (
+    <div className="flex flex-col items-center justify-center bg-black p-6 rounded-md w-full max-w-md mx-auto relative">
+      {/* Face Scan HUD */}
+      <div className="relative w-72 h-72 rounded-full border-4 border-blue-500 flex items-center justify-center overflow-hidden shadow-lg">
+        {/* Glowing Pulse Ring */}
+        <div className="absolute w-full h-full border-2 border-blue-400 rounded-full animate-ping"></div>
+
+        {/* Rotating Scan Ring */}
+        <div className="absolute w-full h-full rounded-full border-t-2 border-blue-300 animate-spin-slow"></div>
+
+        {/* Static Scan Ring */}
+        <div className="absolute w-[85%] h-[85%] border-2 border-dashed border-blue-600 rounded-full"></div>
+
+        {/* Scan Text */}
+        <span className="z-10 text-sm text-blue-100 opacity-80 text-center">
+          Face Scan Active
+        </span>
+
+        {/* Hover Help Icon */}
+      </div>
+
+      {/* SCANNING Text */}
+      <p className="text-blue-300 mt-4 text-xs tracking-widest animate-pulse">
+        SCANNING...
+      </p>
+      <div
+          className="absolute  bottom-0  right-0 cursor-pointer"
+          title="Follow these instructions for successful enrollment"
+          onClick={() => {
+            setCurrentStep(0);
+            setShowTutorial(true);
+          }}
+        >
+          <span className="text-blue-400 p-2 flex gap-2 justify-center items-center text-lg hover:text-blue-200">
+            <Eye className="w-5 h-5" /> 
+            <span className='text-sm'>Tutorial</span> 
+          </span>
+      </div>
+      {/* Modal Popup for Instructions */}
+    </div>
+  );
+}
+

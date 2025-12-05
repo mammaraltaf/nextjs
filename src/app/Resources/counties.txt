@@ -1,0 +1,78 @@
+Adjuntas Municipio, Puerto Rico	72001	72	Puerto Rico
+Aguada Municipio, Puerto Rico	72003	72	Puerto Rico
+Aguadilla Municipio, Puerto Rico	72005	72	Puerto Rico
+Aguas Buenas Municipio, Puerto Rico	72007	72	Puerto Rico
+Aibonito Municipio, Puerto Rico	72009	72	Puerto Rico
+Añasco Municipio, Puerto Rico	72011	72	Puerto Rico
+Arecibo Municipio, Puerto Rico	72013	72	Puerto Rico
+Arroyo Municipio, Puerto Rico	72015	72	Puerto Rico
+Barceloneta Municipio, Puerto Rico	72017	72	Puerto Rico
+Barranquitas Municipio, Puerto Rico	72019	72	Puerto Rico
+Bayamón Municipio, Puerto Rico	72021	72	Puerto Rico
+Cabo Rojo Municipio, Puerto Rico	72023	72	Puerto Rico
+Caguas Municipio, Puerto Rico	72025	72	Puerto Rico
+Camuy Municipio, Puerto Rico	72027	72	Puerto Rico
+Canóvanas Municipio, Puerto Rico	72029	72	Puerto Rico
+Carolina Municipio, Puerto Rico	72031	72	Puerto Rico
+Cataño Municipio, Puerto Rico	72033	72	Puerto Rico
+Cayey Municipio, Puerto Rico	72035	72	Puerto Rico
+Ceiba Municipio, Puerto Rico	72037	72	Puerto Rico
+Ciales Municipio, Puerto Rico	72039	72	Puerto Rico
+Cidra Municipio, Puerto Rico	72041	72	Puerto Rico
+Coamo Municipio, Puerto Rico	72043	72	Puerto Rico
+Comerío Municipio, Puerto Rico	72045	72	Puerto Rico
+Corozal Municipio, Puerto Rico	72047	72	Puerto Rico
+Culebra Municipio, Puerto Rico	72049	72	Puerto Rico
+Dorado Municipio, Puerto Rico	72051	72	Puerto Rico
+Fajardo Municipio, Puerto Rico	72053	72	Puerto Rico
+Florida Municipio, Puerto Rico	72054	72	Puerto Rico
+Guánica Municipio, Puerto Rico	72055	72	Puerto Rico
+Guayama Municipio, Puerto Rico	72057	72	Puerto Rico
+Guayanilla Municipio, Puerto Rico	72059	72	Puerto Rico
+Guaynabo Municipio, Puerto Rico	72061	72	Puerto Rico
+Gurabo Municipio, Puerto Rico	72063	72	Puerto Rico
+Hatillo Municipio, Puerto Rico	72065	72	Puerto Rico
+Hormigueros Municipio, Puerto Rico	72067	72	Puerto Rico
+Humacao Municipio, Puerto Rico	72069	72	Puerto Rico
+Isabela Municipio, Puerto Rico	72071	72	Puerto Rico
+Jayuya Municipio, Puerto Rico	72073	72	Puerto Rico
+Juana Díaz Municipio, Puerto Rico	72075	72	Puerto Rico
+Juncos Municipio, Puerto Rico	72077	72	Puerto Rico
+Lajas Municipio, Puerto Rico	72079	72	Puerto Rico
+Lares Municipio, Puerto Rico	72081	72	Puerto Rico
+Las Marías Municipio, Puerto Rico	72083	72	Puerto Rico
+Las Piedras Municipio, Puerto Rico	72085	72	Puerto Rico
+Loíza Municipio, Puerto Rico	72087	72	Puerto Rico
+Luquillo Municipio, Puerto Rico	72089	72	Puerto Rico
+Manatí Municipio, Puerto Rico	72091	72	Puerto Rico
+Maricao Municipio, Puerto Rico	72093	72	Puerto Rico
+Maunabo Municipio, Puerto Rico	72095	72	Puerto Rico
+Mayagüez Municipio, Puerto Rico	72097	72	Puerto Rico
+Moca Municipio, Puerto Rico	72099	72	Puerto Rico
+Morovis Municipio, Puerto Rico	72101	72	Puerto Rico
+Naguabo Municipio, Puerto Rico	72103	72	Puerto Rico
+Naranjito Municipio, Puerto Rico	72105	72	Puerto Rico
+Orocovis Municipio, Puerto Rico	72107	72	Puerto Rico
+Patillas Municipio, Puerto Rico	72109	72	Puerto Rico
+Peñuelas Municipio, Puerto Rico	72111	72	Puerto Rico
+Ponce Municipio, Puerto Rico	72113	72	Puerto Rico
+Quebradillas Municipio, Puerto Rico	72115	72	Puerto Rico
+Rincón Municipio, Puerto Rico	72117	72	Puerto Rico
+Río Grande Municipio, Puerto Rico	72119	72	Puerto Rico
+Sabana Grande Municipio, Puerto Rico	72121	72	Puerto Rico
+Salinas Municipio, Puerto Rico	72123	72	Puerto Rico
+San Germán Municipio, Puerto Rico	72125	72	Puerto Rico
+San Juan Municipio, Puerto Rico	72127	72	Puerto Rico
+San Lorenzo Municipio, Puerto Rico	72129	72	Puerto Rico
+San Sebastián Municipio, Puerto Rico	72131	72	Puerto Rico
+Santa Isabel Municipio, Puerto Rico	72133	72	Puerto Rico
+Toa Alta Municipio, Puerto Rico	72135	72	Puerto Rico
+Toa Baja Municipio, Puerto Rico	72137	72	Puerto Rico
+Trujillo Alto Municipio, Puerto Rico	72139	72	Puerto Rico
+Utuado Municipio, Puerto Rico	72141	72	Puerto Rico
+Vega Alta Municipio, Puerto Rico	72143	72	Puerto Rico
+Vega Baja Municipio, Puerto Rico	72145	72	Puerto Rico
+Vieques Municipio, Puerto Rico	72147	72	Puerto Rico
+Villalba Municipio, Puerto Rico	72149	72	Puerto Rico
+Yabucoa Municipio, Puerto Rico	72151	72	Puerto Rico
+Yauco Municipio, Puerto Rico	72153	72	Puerto Rico

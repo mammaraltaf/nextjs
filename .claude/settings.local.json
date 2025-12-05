@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(cat:*)",
+      "Bash(node test-smarty.js:*)",
+      "Bash(node test-smarty.mjs:*)",
+      "Bash(node test-smarty-autocomplete.mjs:*)",
+      "Bash(node test-smarty-complete.mjs:*)",
+      "WebSearch",
+      "WebFetch(domain:developers.usps.com)",
+      "WebFetch(domain:developer.usps.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(node test-usps-zip4.mjs:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout 5 tail:*)",
+      "Bash(exit 0)",
+      "Bash(npm run build:*)",
+      "Bash(if [ -d \"src/pages\" ])",
+      "Bash(then ls -la src/pages/)",
+      "Bash(else echo \"src/pages directory does not exist\")",
+      "Bash(fi)",
+      "Bash(if [ -d \"pages\" ])",
+      "Bash(then ls -la pages/)",
+      "Bash(else echo \"pages directory does not exist\")",
+      "Bash(rm:*)",
+      "Bash(timeout 3 bash:*)",
+      "Bash(curl:*)",
+      "Bash(node test-agreement-signature.mjs:*)",
+      "Bash(node test-consumer-form.mjs:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(php artisan migrate:status:*)",
+      "Bash(node test-face-scan.mjs:*)",
+      "Bash(php artisan:*)",
+      "Bash(node test-education-form.mjs:*)",
+      "Bash(node test-merchant-form.mjs:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

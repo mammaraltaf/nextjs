@@ -1,0 +1,237 @@
+{
+   "Afghanistan":{
+     "states":["Badakhshan","Badghis","Baghlan","Balkh","Bamyan","Daykundi","Farah","Faryab","Ghazni","Ghor","Helmand","Herat","Jowzjan","Kabul","Kandahar","Kapisa","Khost","Kunar","Laghman","Logar","Nangarhar","Nimroz","Nuristan","Paktia","Paktika","Parwan","Samangan","Sar-e Pol","Takhar","Urozgan","Wardak","Zabul"],
+        "cities":["Kabul","Kandahar","Herat","Mazar-i-Sharif","Jalalabad","Kunduz","Ghazni","Puli Khumri","Bamyan","Farah"],
+        "dialCode":"+93",
+        "code":"AF"
+    },
+    "Albania":{
+        "states":["Berat","Dibër","Durrës","Elbasan","Fier","Gjirokastër","Korçë","Shkodër","Tiranë","Vlorë"],
+        "cities":["Tirana","Durrës","Vlorë","Shkodër","Fier","Korçë","Berat","Elbasan","Lushnjë","Përmet"],
+        "dialCode":"+355",
+        "code":"AL"
+    },
+    "Algeria":{
+        "states":["Adrar","Chlef","Laghouat","Oum El Bouaghi","Batna","Béjaïa","Biskra","Béchar","Blida","Bouira","Tamanrasset","Tébessa","Tlemcen","Tiaret","Tizi Ouzou","Alger","Djelfa","Jijel","Sétif","Saïda","Skikda","Sidi Bel Abbès","Annaba","Guelma","Constantine","Médéa","Mostaganem","M'Sila","Mascara","Ouargla","Oran"],
+        "cities":["Algiers (Alger)","Oran (Wahrān)","Constantine (Qusantīnah)"],
+        "dialCode":"+213",
+        "code":"DZ"
+    },
+    "American Samoa":{
+        "states":[""],
+        "cities":["Pago Pago","Fagatogo","Tafuna","Aua","Nu'uuli"],
+        "dialCode":"+1684",
+        "code":"AS"
+    },
+    "Andorra":{
+        "states":["Andorra la Vella","Escaldes-Engordany","Encamp","Sant Julià de Lòria","La Massana","Ordino","Canillo"],
+        "cities":["Andorra la Vella","Escaldes-Engordany"],
+        "dialCode":"+376",
+        "code":"AD"
+    },
+    "Angola":{
+        "states":["Bengo","Benguela","Bié","Cabinda","Cuando Cubango","Cuanza Norte","Cuanza Sul","Huambo","Huíla","Luanda","Lunda Norte","Lunda Sul","Malanje","Moxico","Namibe","Uíge"],
+        "cities":["Luanda","Huambo","Benguela","Lubango","Cabinda"],
+        "dialCode":"+244",
+        "code":"AO"
+    },
+    "Antigua and Barbuda":{
+        "states":["Saint George","Saint John","Saint Mary","Saint Paul","Saint Peter","Saint Philip"],
+        "cities":["St. John's","All Saints","Liberta","Potters Village","Parham"],
+        "dialCode":"+1268",
+        "code":"AG"
+    },
+    "Argentina":{
+        "states":["Buenos Aires","Catamarca","Chaco","Chubut","Córdoba","Corrientes","Entre Ríos","Formosa","Jujuy","La Pampa","La Rioja","Mendoza","Misiones","Neuquén","Río Negro","Salta","San Juan","San Luis","Santa Cruz","Santa Fe","Santiago del Estero","Tierra del Fuego","Tucumán"],
+        "cities":["Buenos Aires","Córdoba","Rosario","Mendoza","La Plata"],
+        "dialCode":"+54",
+        "code":"AR"
+    },
+    "Armenia":{
+        "states":["Aragatsotn","Ararat","Armavir","Gegharkunik","Kotayk","Lori","Shirak","Syunik","Tavush","Vayots Dzor","Yerevan"],
+        "cities":["Yerevan","Gyumri","Vanadzor","Vagharshapat","Hrazdan"],
+        "dialCode":"+374",
+        "code":"AM"
+    },
+    "Australia":{
+        "states":["Australian Capital Territory","New South Wales","Northern Territory","Queensland","South Australia","Tasmania","Victoria","Western Australia"],
+        "cities":["Sydney","Melbourne","Brisbane","Perth","Adelaide"],
+        "dialCode":"+61",
+        "code":"AU"
+    },
+    "Austria":{
+        "states":["Burgenland","Carinthia","Lower Austria","Upper Austria","Salzburg","Styria","Tyrol","Vorarlberg","Vienna"],
+        "cities":["Vienna (Wien)","Graz","Linz","Salzburg","Innsbruck"],
+        "dialCode":"+43",
+        "code":"AT"
+    },
+    "Azerbaijan":{
+        "states":["Abşeron","Gəncə","Lənkəran","Quba","Qazax","Şəki","Bakı"],
+        "cities":["Baku","Ganja","Lankaran","Quba","Qazakh","Shaki"],
+        "dialCode":"+994",
+        "code":"AZ"
+    },
+    "Bahamas":{
+        "states":[""],
+        "cities":["Nassau","Freeport","West End"],
+        "dialCode":"+1242",
+        "code":"BS"
+    },
+    "Bahrain":{
+        "states":["Capital","Central","Northern","Southern"],
+        "cities":["Manama","Riffa","Muharraq","Hamad Town","Sitra"],
+        "dialCode":"+973",
+        "code":"BH"
+    },
+    "Bangladesh":{
+        "states":["Barisal","Chittagong","Dhaka","Khulna","Rajshahi","Rangpur","Sylhet"],
+        "cities":["Dhaka","Chittagong","Khulna","Rajshahi","Sylhet"],
+        "dialCode":"+880",
+        "code":"BD"
+    },
+    "Bhutan":{
+        "states":["Thimphu","Punakha","Paro","Bumthang","Trashigang","Samdrup Jongkhar"],
+        "cities":["Thimphu","Punakha","Paro","Bumthang","Trashigang"],
+        "dialCode":"+975",
+        "code":"BT"
+    },
+    "Bolivia":{
+        "states":["Chuquisaca","La Paz","Cochabamba","Oruro","Potosí","Tarija","Santa Cruz","Beni","Pando"],
+        "cities":["Sucre","La Paz","Cochabamba","Santa Cruz","Tarija"],
+        "dialCode":"+591",
+        "code":"BO"
+    },
+    "Bosnia and Herzegovina":{
+        "states":["Federation of Bosnia and Herzegovina","Republika Srpska"],
+        "cities":["Sarajevo","Banja Luka","Tuzla","Zenica","Mostar"],
+        "dialCode":"+387",
+        "code":"BA"
+    },
+    "Brazil":{
+        "states":["Acre","Alagoas","Amapá","Bahia","Ceará","Distrito Federal","Espírito Santo","Goiás","Maranhão","Mato Grosso","Mato Grosso do Sul","Minas Gerais","Pará","Paraíba","Paraná","Pernambuco","Piauí","Rio de Janeiro","Rio Grande do Norte","Rio Grande do Sul","Rondônia","Roraima","Santa Catarina","São Paulo","Sergipe","Tocantins"],
+        "cities":["São Paulo","Rio de Janeiro","Salvador","Belo Horizonte","Brasília"],
+        "dialCode":"+55",
+        "code":"BR"
+    },
+    "Brunei":{
+        "states":["Belait","Brunei-Muara","Temburong","Tutong"],
+        "cities":["Bandar Seri Begawan","Kuala Belait","Seria","Bangar","Tutong"],
+        "dialCode":"+673",
+        "code":"BN"
+    },
+    "Bulgaria":{
+        "states":["Blagoevgrad","Burgas","Dobrich","Gabrovo","Haskovo","Kardzhali","Kyustendil","Lovech","Montana","Pazardzhik","Pernik","Pleven","Plovdiv","Razgrad","Ruse","Shumen","Silistra","Sliven","Smolyan","Sofia City","Sofia Province","Stara Zagora","Targovishte","Varna","Veliko Tarnovo","Vidin","Vratsa"],
+        "cities":["Sofia (Stolitsa)","Plovdiv (Plovdiv)","Varna (Varna)","Burgas (Burgas)"],
+        "dialCode":"+359",
+        "code":"BG"
+    },
+    "Cambodia":{
+        "states":["Banteay Meanchey","Battambang","Kampong Cham","Kampong Chhnang","Kampong Speu","Kampong Thom","Kampot","Kandal","Kep","Kratie","Mondulkiri","Oddar Meancheay","Pailin","Phnom Penh","Preah Vihear","Prey Veng","Ratanakiri","Siem Reap","Stung Treng","Svay Rieng","Takeo"],
+        "cities":["Phnom Penh (Krŏng Phnum Pénh)","Siem Reap (Krŏng Siem Réab)"],
+        "dialCode":"+855",
+        "code":"KH"
+    },
+    "Cameroon":{
+        "states":["Adamawa","Centre","East","Far North","Littoral","North","Northwest","South","Southwest"],
+        "cities":["Yaoundé","Douala","Garoua","Maroua","Bamenda"],
+        "dialCode":"+237",
+        "code":"CM"
+    },
+    "Canada":{
+        "states":["Alberta","British Columbia","Manitoba","New Brunswick","Newfoundland and Labrador","Nova Scotia","Ontario","Prince Edward Island","Quebec","Saskatchewan"],
+        "cities":["Toronto","Montreal","Vancouver","Calgary","Edmonton"],
+        "dialCode":"+1",
+        "code":"CA"
+    },
+    "Cape Verde":{
+        "states":["Boa Vista","Brava","Fogo","Maio","Mosteiros","Paul","Porto Novo","Praia","Ribeira Grande","Sal","Santa Catarina","Santa Cruz","Santo Antão","São Domingos","São Filipe","São Lourenço dos Órgãos"],
+        "cities":["Praia (Cidade da Praia)","Mindelo (São Vicente)"],
+        "dialCode":"+238",
+        "code":"CV"
+    },
+    "Cayman Islands":{
+        "states":["Grand Cayman","Little Cayman","Cayman Brac"],
+        "cities":["George Town","West Bay","Bodden Town","North Side","East End"],
+        "dialCode":"+1345",
+        "code":"KY"
+    },
+    "Central African Republic":{
+        "states":["Bamingui-Bangoran","Bangui","Basse-Kotto","Haut-Mbomou","Haut-Oubangui","Kémo","Lobaye","Mambéré-Kadéï","Mbomou","Nana-Mambéré","Nana-Grébizi","Ouham","Ouham-Pendé","Vakaga"],
+        "cities":["Bangui (Bongui)"],
+        "dialCode":"+236",
+        "code":"CF"
+    },
+    "Chad":{
+        "states":["Batha","Borkou","Chari-Baguirmi","Guéra","Kanem","Lac","Logone Occidental","Logone Oriental","Mayo-Kebbi Est","Mayo-Kebbi Ouest","Moyen-Chari","Ouaddaï","Salamat","Sila","Tandjilé"],
+        "cities":["N'Djamena (Ndjamena)"],
+        "dialCode":"+235",
+        "code":"TD"
+    },
+    "Chile":{
+        "states":["Arica y Parinacota","Tarapacá","Antofagasta","Atacama","Coquimbo","Valparaíso","Metropolitana de Santiago","O'Higgins","Maule","Ñuble","Biobío","La Araucanía","Los Ríos","Los Lagos","Aysén del General Carlos Ibáñez del Campo","Magallanes y de la Antártica Chilena"],
+        "cities":["Santiago (Santiago de Chile)","Valparaíso (Valparaíso)","Concepción (Concepción)"],
+        "dialCode":"+56",
+        "code":"CL"
+    },
+    "China":{
+        "states":["Anhui","Beijing","Chongqing","Fujian","Gansu","Guangdong","Guangxi","Guizhou","Hainan","Hebei","Heilongjiang","Henan","Hong Kong","Hubei","Hunan","Inner Mongolia","Jiangsu","Jiangxi","Jilin","Liaoning","Macau","Ningxia","Qinghai","Shaanxi","Shandong","Shanghai","Shanxi","Sichuan","Tianjin","Tibet (Xizang)","Xinjiang","Yunnan","Zhejiang"],
+        "cities":["Beijing (Peking)","Shanghai (Shanghaj)"],
+        "dialCode":"+86",
+        "code":"CN"
+    },
+    "Colombia":{
+        "states":["Amazonas","Antioquia","Arauca","Atlántico","Bolívar","Boyacá","Caldas","Caquetá","Casanare","Cauca","Cesar","Chocó","Córdoba","Cundinamarca","Guainía","Guaviare","Huila","La Guajira","Magdalena","Meta","Nariño","Norte de Santander","Putumayo","Quindío","Risaralda","San Andrés y Providencia","Santander","Sucre","Tolima","Valle del Cauca","Vaupés","Vichada"],
+        "cities":["Bogotá (Santa Fé de Bogotá)"],
+        "dialCode":"+57",
+        "code":"CO"
+    },
+    "Republic of the Congo":{
+        "states":["Bouenza","Brazzaville","Cuvette","Cuvette-Ouest","Kouilou","Lékoumou","Likouala","Niari","Plateaux","Pool","Sangha"],
+        "cities":["Brazzaville (Kinsasa)","Pointe-Noire"],
+        "dialCode":"+242",
+        "code":"CG"
+    },
+    "Costa Rica":{
+        "states":["Alajuela","Cartago","Guanacaste","Heredia","Limón","Puntarenas","San José"],
+        "cities":["San José (San José)","Alajuela (Alajuela)","Cartago (Cartago)"],
+        "dialCode":"+506",
+        "code":"CR"
+    },
+    "Czech Republic":{
+        "states":["Prague","Central Bohemian Region","South Bohemian Region","Plzeň Region","Karlovy Vary Region","Ústí nad Labem Region","Liberec Region","Hradec Králové Region","Pardubice Region","Vysočina Region","South Moravian Region","Olomouc Region","Zlín Region","Moravian-Silesian Region"],
+        "cities":["Prague (Praha)"],
+        "dialCode":"+420",
+        "code":"CZ"
+    },
+    "Denmark":{
+        "states":["Capital Region of Denmark","Central Denmark Region","North Denmark Region","Region of Southern Denmark","Region Zealand"],
+        "cities":["Copenhagen (København)","Aarhus (Århus)","Odense (Odense)"],
+        "dialCode":"+45",
+        "code":"DK"
+    },
+    "Dominica":{
+        "states":[],
+        "cities":["Roseau (Roseau)"],
+        "dialCode":"+1767",
+        "code":"DM"
+    },
+    "Dominican Republic":{
+        "states":["Azua","Baoruco","Barahona","Dajabón","Distrito Nacional","Duarte","Elías Piña","El Seibo","Espaillat","Hato Mayor","Independencia","La Altagracia","La Romana","La Vega","María Trinidad Sánchez","Monte Cristi","Pedernales","Peravia","Puerto Plata","Salcedo (Hermanas Mirabal)","Samaná","San Cristóbal","San José de Ocoa","San Juan de la Maguana","San Pedro de Macorís","Sánchez Ramírez (Cotuí)","Santiago de los Caballeros (Santiago)","Santiago Rodríguez (San Ignacio de Sabaneta)","Valverde (Mao)"],
+        "cities":["Santo Domingo (Santo Domingo de Guzmán)"],
+        "dialCode":"+1",
+        "code":"DO"
+    },
+    "East Timor":{
+        "states":["Aileu","Ainaro","Baucau","Bobonaro","Cova Lima","Dili","Ermera","Lautém","Liquiçá","Manatuto","Manufahi","Oecussi Ambeno (Ponte Leste)"],
+        "cities":["Dili (Cidade de Dili)"],
+        "dialCode":"+670",
+        "code":"TL"
+    },
+    "Egypt":{
+        "states":["Alexandria","Aswan","Asyut","Beheira","Beni Suef","Cairo","Dakahlia","Damietta","Faiyum","Gharbia","Giza","Ismailia","Kafr el-Sheikh","Luxor","Matrouh","Minya","Monufia (Menoufia)","New Valley (Al Wadi al Jadid)","North Sinai (Shamal Sina')","Port Said (Bur Said)","Qalyubia (Qalyubiya)","Qena","Red Sea (Al Bahr al Ahmar)","Sharqia (Ash Sharqiya)","Sohag (Sawhaj)","South Sinai (Janub Sina')"],
+        "cities":["Cairo (Al Qāhirah)"],
+        "dialCode":"+20",
+        "code":"EG"
+    }
+
+}
