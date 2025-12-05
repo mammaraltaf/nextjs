@@ -17,7 +17,7 @@ const PdfViewer = ({ pdfUrl, setDisabledAgreement }) => {
 
     window.addEventListener('message', handleMessage);
     return () => window.removeEventListener('message', handleMessage);
-  }, []);
+  }, [setDisabledAgreement]);
 
   return (
     <div className='border border-gray-300 p-1 h-64'>

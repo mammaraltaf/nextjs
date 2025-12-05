@@ -10,7 +10,7 @@ export default function ToggleButton({label, id, form, setform, required,toggleI
         if (form) {
             setIsChecked(form[id] || false);
         }
-    }, [form[id]]);
+    }, [form, id]);
     // Update the form state when the toggle button is clicked
     React.useEffect(() => {
         if (isChecked && toggleIDs && Array.isArray(toggleIDs)) {
@@ -23,7 +23,7 @@ export default function ToggleButton({label, id, form, setform, required,toggleI
                 ...valsOBJ
             }));
         }
-    }, [isChecked]);
+    }, [isChecked, setform, toggleIDs]);
   return (
     <div className='flex gap-2 items-start p-1'>
         <label className={`text-lg text-gray-600 ml-2 ${classes || ''}`} htmlFor={id}>

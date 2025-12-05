@@ -102,7 +102,7 @@ export const useFaceScanWorkflow = () => {
       setState(WORKFLOW_STATES.ERROR);
       return { success: false, error: err.message };
     }
-  }, []);
+  }, [updateProgress]);
 
   /**
    * Updates progress percentage
@@ -249,7 +249,7 @@ export const useFaceScanWorkflow = () => {
         return { success: false, error: err.message };
       }
     },
-    [updateProgress]
+    []
   );
 
   /**

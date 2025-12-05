@@ -67,7 +67,7 @@ export default function FaceScanHud({ setCurrentStep, setShowTutorial }) {
     return () => {
       stopCamera();
     };
-  }, []);
+  }, [initialize, requestPermission, startCamera, stopCamera]);
 
   /**
    * Stop camera when workflow is completed or error occurs
@@ -361,7 +361,7 @@ export default function FaceScanHud({ setCurrentStep, setShowTutorial }) {
         <ul className="text-blue-100 text-[10px] space-y-0.5 list-disc list-inside">
           <li>Position your face clearly in the camera view</li>
           <li>Perform the action shown above</li>
-          <li>Click "Capture Now" or use "Auto" with countdown</li>
+          <li>Click &quot;Capture Now&quot; or use &quot;Auto&quot; with countdown</li>
           <li>Wait for verification before the next action</li>
         </ul>
       </div>
