@@ -63,7 +63,7 @@ export default function HereGeoLocationComponent({  section, id, form, setform, 
     try {
       // Fetch the address details including ZIP+4 from USPS API
       const street = `${addressObj.street_line}${addressObj.secondary ? ' ' + addressObj.secondary : ''}`;
-      const response = await fetch(`/api/smarty-verify?street=${encodeUR    IComponent(street)}&city=${encodeURIComponent(addressObj.city)}&state=${encodeURIComponent(addressObj.state)}&zipcode=${encodeURIComponent(addressObj.zipcode)}`);
+      const response = await fetch(`/api/smarty-verify?street=${encodeURIComponent(street)}&city=${encodeURIComponent(addressObj.city)}&state=${encodeURIComponent(addressObj.state)}&zipcode=${encodeURIComponent(addressObj.zipcode)}`);
 
       let zipCode = addressObj.zipcode; // Default to 5-digit ZIP
 
