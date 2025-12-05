@@ -60,7 +60,8 @@ export default function AutoDropDownMenu({ options, id, form, formState, setform
 
   // Validation trigger
   useEffect(() => {
-    if (form[id]) {
+    const fieldValue = form[id];
+    if (fieldValue) {
       const error = runValidation(consumerProgressTackers[formState][0], form, id);
       setFormErrors((prevErrors) => {
         const newErrors = { ...prevErrors };
@@ -72,7 +73,7 @@ export default function AutoDropDownMenu({ options, id, form, formState, setform
         return newErrors;
       });
     }
-  }, [form[id], selected]);
+  }, [form, formState, id, setFormErrors, selected]);
 
   // Keyboard navigation
   const handleKeyDown = (e) => {
