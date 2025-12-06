@@ -35,7 +35,11 @@
       "Bash(node test-face-scan.mjs:*)",
       "Bash(php artisan:*)",
       "Bash(node test-education-form.mjs:*)",
-      "Bash(node test-merchant-form.mjs:*)"
+      "Bash(node test-merchant-form.mjs:*)",
+      "WebFetch(domain:vercel.link)",
+      "WebFetch(domain:vercel.com)",
+      "Bash(npm install)",
+      "Bash(npm audit:*)"
     ],
     "deny": [],
     "ask": []
